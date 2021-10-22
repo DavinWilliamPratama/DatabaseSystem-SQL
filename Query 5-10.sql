@@ -1,0 +1,2 @@
+SELECT SUBSTRING(UserID, 2, 3) 
+FROM [User]
